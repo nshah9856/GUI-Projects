@@ -1,5 +1,6 @@
 from tkinter import *
 from tkinter import messagebox
+
 class Game:
     def __init__(self):
         self.root = Tk()
@@ -109,4 +110,3 @@ class Game:
 if __name__ == '__main__':
 
     Game().run()
-
